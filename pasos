@@ -1,0 +1,22 @@
+1. Crear entorno virutal
+    ->  virtualenv -p python3 env
+
+2.  ejecutar/activar entorno virtual (Estando dentro de la carpeta entorno)
+    ->  source env/bin/activate   
+
+    2.1 para desactivar entorno virtual 
+        ->  deactivate
+
+3. recurperar paquetes con archivo requerimientos.txt
+    en nueva locacion
+    -> usar paso 1.
+    -> usar paso 2.
+    para installar los requerimientos   
+        ->  pip install -r ./requerimientos.txt
+
+
+4. activar la app
+    -> python ./app/app.py
+
+5. activar el modo de depuracion
+    
