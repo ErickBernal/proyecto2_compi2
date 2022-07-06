@@ -20,3 +20,5 @@
 
 5. activar el modo de depuracion
     
+
+    streamlit run iris_web.py
